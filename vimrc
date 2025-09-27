@@ -4,7 +4,7 @@ set encoding=utf-8
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
-colorscheme darkblue
+colorscheme habamax
 
 set tabstop=4 " Tab witdh is 4
 set shiftwidth=4 " Identation width is 4
