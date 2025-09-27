@@ -2,6 +2,20 @@
 
 These are my own vim configurations and plugins. It' only necessary to sync them with my ~/.vim folder.
 
+To add this config to your home folder, there are a few ways:
+
+**Using SSH**
+
+```sh
+git clone git@github.com:dielsonsales/vim-configs.git .vim
+```
+
+**Using HTTPS**
+
+```sh
+git clone https://github.com/dielsonsales/vim-configs.git .vim
+```
+
 ### Relevant Articles ###
 
 * [Vim after 11 years](http://statico.github.io/vim.html)
